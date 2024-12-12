@@ -1,3 +1,3 @@
-Kunskapskontroller i kursen SQL
+Kunskapskontroll i kursen SQL
 
 Terese Eriksson
